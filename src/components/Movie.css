@@ -1,0 +1,35 @@
+a {
+  text-decoration: none;
+}
+.card-info {
+  cursor: pointer;
+  margin-bottom: 0px;
+  position: relative;
+}
+
+.header-section {
+  position: relative;
+}
+.header-section .movie-image img {
+  width: 100%;
+  height: 260px;
+  border-radius: 5px;
+}
+
+.body-section {
+  /* border: 1px solid green; */
+  /* display: none; */
+  position: relative;
+  padding-left: 10px;
+  top: -45px;
+  background-color: rgba(0, 0, 0, 0.9);
+  color: white;
+  padding-top: 2px;
+  padding-bottom: 6px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.movie-details {
+  font-size: 13px;
+}

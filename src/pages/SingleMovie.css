@@ -1,0 +1,39 @@
+.over {
+  border: 1px solid red;
+  background-color: green;
+  height: 100vh;
+}
+
+.film-details-container {
+  /* border: 1px solid red; */
+  display: flex;
+  background-color: rgba(0, 0, 0, 0.6);
+  width: 100%;
+  margin: 50px auto;
+  border-radius: 5px;
+  height: 370px;
+}
+.image-sec.col-md-3 {
+  padding: 0;
+}
+.image-sec img {
+  /* border: 1px solid green; */
+  border-radius: 5px;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.movie-det {
+  padding: 10px 30px;
+  color: white;
+  font-size: 12px;
+}
+
+.movie-det h4 {
+  color: white;
+}
+
+/* .movie-det span {
+  font-size: 18px;
+} */
