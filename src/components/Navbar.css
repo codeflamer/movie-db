@@ -1,0 +1,25 @@
+nav {
+  /* border: 1px solid red; */
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+  padding: 7px 5px;
+  margin-bottom: 8px;
+}
+
+nav .searchForm input {
+  /* border: 1px solid red; */
+  width: 400px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 17px;
+}
+
+h3 {
+  color: grey;
+}
